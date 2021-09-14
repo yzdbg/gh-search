@@ -2,7 +2,7 @@
 
 A github search clone built with Vue and Nuxt using the github API to search and display users and repos.
 
-## Build Setup
+## Setup
 
 ```bash
 # install dependencies
